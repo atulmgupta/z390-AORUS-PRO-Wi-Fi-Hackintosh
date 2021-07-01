@@ -23,6 +23,9 @@ CPU:
 | SSD           | Samsung 970 EVO Plus SSD 1TB - M.2 NVMe      |
 | SSD           | Samsung 970 EVO Plus SSD 1TB - M.2 NVMe      |
 | BT/Wi-Fi      | Fenvi T919 Bluetooth/Wi-Fi Card   |
+| Power Supply           | Samsung 970 EVO Plus SSD 1TB - M.2 NVMe      |
+| Monitor 1           | [Lg 43''](https://www.lg.com/us/monitors/lg-43UD79-B-4k-uhd-led-monitor)      |
+| Monitor 2           | [DELL P2720d](https://www.dell.com/en-us/work/shop/dell-27-monitor-p2720d/apd/210-aulk/monitors-monitor-accessories)      |
 
 ---
 # Checklist
@@ -67,5 +70,4 @@ The following fields have been replaced by `<<CHANGE_IT>>:
 - CFG Lock => Disabled
 - Fast Boot => Disabled
 
-
-
+[![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fatulmgupta%2Fz390-AORUS-PRO-Wi-Fi-Hackintosh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
