@@ -42,6 +42,7 @@ CPU:
 * [x] iMessage
 * [x] FaceTime
 * [x] iCloud
+* [X] side car 
 * [x] Apple Watch Unlock
 
 ---
